@@ -52,3 +52,20 @@
 
 # MISC
 - [Why You Should Go Cloud?](https://dev.to/hasanelsherbiny/why-you-should-go-cloud-3f72?preview=68c683a2c450dd14d59dd9a397ed6385a7e57994bb34b882e941f45065e1338d36c8035b652d64e3337606ea698797a143f28adc2358da20df3c6a2b)
+- [Top 10 VS Code Extensions for .net developers](https://dev.to/hasanelsherbiny/top-10-vs-code-extensions-for-net-developers-1h3p)
+- [What Is LINQ?](https://dev.to/hasanelsherbiny/what-is-linq-427p)
+- [Work Types.](https://dev.to/hasanelsherbiny/work-types-1564)
+- [Asp Versions and it's Evolution.](https://dev.to/hasanelsherbiny/asp-versions-and-its-evolution-3m0a)
+- [Why Not to Store images in Database?](https://dev.to/hasanelsherbiny/why-not-to-store-images-in-database-386)
+- [What is API?](https://dev.to/hasanelsherbiny/what-is-api-21bc)
+- [Top 10 AWS Services](https://dev.to/hasanelsherbiny/top-10-aws-services-kjc)
+- [Agile VS Scrum VS Waterfall](https://dev.to/hasanelsherbiny/agile-vs-scrum-vs-waterfall-58da)
+- [Out Systems Shaping the Future !](https://dev.to/hasanelsherbiny/out-systems-shaping-the-future--4891)
+- [Rest VS Soap API](https://dev.to/hasanelsherbiny/rest-vs-soap-api-9jm)
+- [Developer Starter Pack](https://dev.to/hasanelsherbiny/developer-starter-pack-15k8)
+- [Visual Studio : Power Of TODO](https://dev.to/hasanelsherbiny/visual-studio-power-of-todo-4g04)
+- [OOP Clone Objects](https://dev.to/hasanelsherbiny/oop-clone-objects-2p66)
+- [What is Open Source](https://dev.to/hasanelsherbiny/what-is-open-source-cnp)
+- [Outsourcing cons and pros](https://dev.to/hasanelsherbiny/outsourcing-cons-and-pros-18jn)
+- [Top 5 Developer Soft Skills](https://dev.to/hasanelsherbiny/top-5-developer-soft-skills-4fkk)
+
