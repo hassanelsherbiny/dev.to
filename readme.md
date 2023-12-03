@@ -1,4 +1,4 @@
-# List Of Usefull Articles related to tech and development published by me
+# My Articles Related to tech ,development and devops
 
 # API
 - [What is API?](https://dev.to/hasanelsherbiny/what-is-api-21bc)
@@ -49,3 +49,6 @@
 - [Top 10 Kubernetes Commands](https://dev.to/hasanelsherbiny/top-10-kubernetes-commands-466j)
 # Soft Skills
 - [Top 5 Developer Soft Skills](https://dev.to/hasanelsherbiny/top-5-developer-soft-skills-4fkk)
+
+# MISC
+- [Why You Should Go Cloud?](https://dev.to/hasanelsherbiny/why-you-should-go-cloud-3f72?preview=68c683a2c450dd14d59dd9a397ed6385a7e57994bb34b882e941f45065e1338d36c8035b652d64e3337606ea698797a143f28adc2358da20df3c6a2b)
